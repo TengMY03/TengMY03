@@ -1,17 +1,25 @@
-### Hi there 👋
+# Hello, world! 👋🌍
 
-<!--
-**TengMY03/TengMY03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My name is Tmyang, and I'm a genshin impact player.
-Here are some ideas to get you started:
+My name is Tmyang, and I'm a genshin player.
 
-- 🔭 I’m currently working on Li Yue
-- 🌱 I’m currently learning Physics
-- 👯 I’m looking to collaborate on Interwined Fate
-- 🤔 I’m looking for help with Zhongli
-- 💬 Ask me about ...
-- 📫 How to reach me: Tmyang
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--Keep learning all the time...
+Here's a bit about me:
+
+- 👩‍💻 I'm currently working on: [What you're working on]
+- 🌱 I'm currently learning: [What you're learning]
+- 💡 I'm interested in: [Your interests]
+- 💬 Ask me about: [What you're proficient in]
+- 📫 How to reach me: [Your Contact Information]
+
+## 👷 My GitHub account is:
+
+
+
+## 📖 What I'm currently learning...
+
+Physics.
+
+## 💭 Let's get social...
+
+- Tmyang.
+
+Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
